@@ -1,2 +1,2 @@
 # Mini-Project-1---Number-Guessing-Game
-A beginner-friendly Python number guessing game where the user keeps guessing until the correct number is found. Built using loops, conditional statements, and user input handling.
+A Python-based number guessing game where players try to guess a randomly generated number. The game provides hints, tracks attempts, and demonstrates the use of loops, conditional statements, user input handling, and the random module.
